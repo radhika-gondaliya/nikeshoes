@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radhika-gondaliya/nikeshoes.git/static/css/main.6e27480e.css",
+    "main.js": "/radhika-gondaliya/nikeshoes.git/static/js/main.9cb340d2.js",
+    "static/js/453.6fd463f7.chunk.js": "/radhika-gondaliya/nikeshoes.git/static/js/453.6fd463f7.chunk.js",
+    "index.html": "/radhika-gondaliya/nikeshoes.git/index.html",
+    "main.6e27480e.css.map": "/radhika-gondaliya/nikeshoes.git/static/css/main.6e27480e.css.map",
+    "main.9cb340d2.js.map": "/radhika-gondaliya/nikeshoes.git/static/js/main.9cb340d2.js.map",
+    "453.6fd463f7.chunk.js.map": "/radhika-gondaliya/nikeshoes.git/static/js/453.6fd463f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e27480e.css",
+    "static/js/main.9cb340d2.js"
+  ]
+}
