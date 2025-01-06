@@ -1,0 +1,50 @@
+.men-container {
+  padding: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.shoes-grid {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.shoe-item {
+  position: relative;
+  max-width: 300px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.shoe-item:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.shoe-img {
+  width: 100%;
+  border-radius: 10px;
+  transition: opacity 0.3s ease;
+}
+
+.shoe-name {
+  display: block;
+  margin-top: 10px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.shoe-item:hover .shoe-name {
+  color: #000; /* Change color on hover */
+}
+
+.shoe-item:hover .shoe-img {
+  opacity: 0.9; /* Slight opacity change on hover */
+}

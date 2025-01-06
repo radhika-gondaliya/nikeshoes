@@ -1,0 +1,28 @@
+.shopicon {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.shopbutton {
+  margin-top: 50px;
+  display: flex;
+  gap: 10px; /* Adds space between the buttons */
+  margin-left: 40px;
+  margin-top: -10px;
+}
+.shopimg {
+  margin-left: 500px;
+  margin-top: -300px;
+}
+.peragraph {
+  margin-left: 40px;
+  margin-top: 50px;
+}
+
+.minp {
+  margin-top: 10px;
+  margin-left: 40px;
+}

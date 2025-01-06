@@ -1,0 +1,59 @@
+.about-us {
+  font-family: "Arial", sans-serif;
+}
+
+/* Hero Section */
+.hero-section {
+  background: #f8f9fa;
+  padding: 50px 0;
+  color: #333;
+}
+.hero-section {
+  background: url("https://i.pinimg.com/736x/ea/f4/3b/eaf43b2626894a4358c2582bf2064e02.jpg")
+    no-repeat center center;
+  background-size: cover;
+  color: white;
+  padding: 150px 0;
+}
+/* Image Alignment */
+.our-team .row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.our-team img {
+  max-width: 24%;
+  height: auto;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+.our-team img:hover {
+  transform: scale(1.1);
+}
+
+/* Story Section */
+.our-story {
+  margin-bottom: 50px;
+}
+
+.our-story h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.our-story p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Team Section */
+.our-team {
+  margin-top: 50px;
+}
+
+.our-team h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
